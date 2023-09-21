@@ -16,11 +16,7 @@ For a good decade, the Cosmopolitan may have been **the most popular cocktail** 
 
 ## Steps 
 
-<<<<<<< HEAD
-1. Add the vodka, **Cointreau**, lime juice, and cranberry juice cocktail into a shaker with ice and shake until well-chilled.
-=======
-1. Add the **vodka**, Cointreau, lime juice, and cranberry juice cocktail into a shaker with ice and shake until well-chilled.
->>>>>>> 738263afcce70832a50ddb029b956dcba9ad5e58
+1. Add the **vodka**, **Cointreau**, lime juice, and cranberry juice cocktail into a shaker with ice and shake until well-chilled.
 
 2. Strain into a chilled cocktail glass.
 
