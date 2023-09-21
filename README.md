@@ -21,3 +21,8 @@ For a good decade, the Cosmopolitan may have been **the most popular cocktail** 
 2. Strain into a chilled cocktail glass.
 
 3. Garnish with a lime wedge. 
+
+---
+
+### Attributions
+[Cosmopolitan Website by Liquor.com](https://www.liquor.com/recipes/cosmopolitan/)
