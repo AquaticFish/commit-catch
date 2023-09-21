@@ -6,7 +6,7 @@ The legendary Cosmopolitan is a simple cocktail with a big history. It reached i
 
 For a good decade, the Cosmopolitan may have been **the most popular cocktail** in America, and bartenders couldn’t work a shift without making dozens of them for thirsty patrons. Naturally, its ubiquity spurred countless riffs, from the White Cosmo (St-Germain in place of Cointreau) to versions featuring gin. While the drink isn’t as popular today as it was in its heyday, the classic recipe is still very much alive.
 
-## Ingredients
+## Ingredients✨
 
 - 1 1/2 ounces citron vodka
 - 3/4 ounce Cointreau
