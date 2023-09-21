@@ -5,4 +5,4 @@
 - 3/4 ounce Cointreau
 - 3/4 ounce lime juice, freshly squeezed
 - 1/2 ounce cranberry juice cocktail
--Garnish: lime wedge
+- *Garnish: lime wedge*
