@@ -1,4 +1,4 @@
-# How to make a Cocktail
+# How to make a Cosmopolitan
 [Cocktail cheat sheet](https://www.liquor.com/recipes/cosmopolitan/)
 ## Ingredients
 - 1 1/2 ounces citron vodka
